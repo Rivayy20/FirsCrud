@@ -39,10 +39,7 @@
                         ?>
                     </td>
                 </tr>   
-                <tr>
-                    <td>Telepon</td>
-                    <td><input type="text" name="telp" value="<?php echo $data['telp'];?>"></td>
-                </tr>
+
                 <tr>
                     <td>Alamat</td>
                     <td><textarea name="alamat"><?php echo $data['alamat'];?></textarea></td>

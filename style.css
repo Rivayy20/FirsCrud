@@ -1,0 +1,23 @@
+body {
+    font-family:monospace;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tambah {
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: rgb(135, 135, 135);
+}

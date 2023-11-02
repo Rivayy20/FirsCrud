@@ -40,10 +40,6 @@
                     </td>
                 </tr>   
 
-                <tr>
-                    <td>Alamat</td>
-                    <td><textarea name="alamat"><?php echo $data['alamat'];?></textarea></td>
-                </tr>
             </table>
             <hr>
             <input type="submit" value="Ubah">
